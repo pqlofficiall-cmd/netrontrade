@@ -1,0 +1,18 @@
+# Environment secrets
+.env
+prisma/*.db
+prisma/*.db-journal
+node_modules/
+uploads/
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+android/
+*.jks
+*.keystore
+keystore.properties
+public_empty/
+create_android_project.js
+capacitor.config.json
+.gitignore_new
